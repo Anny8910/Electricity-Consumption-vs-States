@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df=pd.read_csv('18011_322_Assn2_AnanyaSarkar_Per capita consumption of electricity.csv')
+df=pd.read_csv('Per capita consumption of electricity.csv')
 
 print(df.head())
 
